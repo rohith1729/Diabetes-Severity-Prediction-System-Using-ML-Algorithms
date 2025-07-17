@@ -1,6 +1,6 @@
 # Diabetes-Severity-Prediction-System-Using-ML-Algorithms
 
-**Objective**
+## Objective
 
 To build a machine learning-based prediction system that detects diabetes presence and severity using survey data from the CDC's BRFSS. The aim is to identify high-risk individuals early and support personalized health interventions.
 
